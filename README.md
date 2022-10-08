@@ -1,3 +1,5 @@
+[![Continuous Integration](https://github.com/kaiosilveira/nodejs-handshaking/actions/workflows/ci.yml/badge.svg)](https://github.com/kaiosilveira/nodejs-handshaking/actions/workflows/ci.yml)
+
 # Handshaking
 
 In **TCP** (Transmission Control Protocol), to establish a connection, the client and the server should agree on the health of each other. This agreement is performed via a process called _handshake_. This handshake is known as a 3-way handshake and happens as follows:
